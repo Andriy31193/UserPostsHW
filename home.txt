@@ -1,0 +1,17 @@
+ViewPager2 + Retrofit2
+На 9 баллов
+Выполнить запрос на
+https://jsonplaceholder.typicode.com/posts
+Отобразить title в tvHeader, body в tvParagraph
+
+На 12 баллов
+Предыдущее задание +
+По нажатию на слайд(в любом месте) открывается
+новое активити, в котором отображается информация
+о пользователе, которому пренадлежит данный пост.
+Для этого испльзовать userId.
+Запрос за юзером делать на
+https://jsonplaceholder.typicode.com/users/id
+с параметром id.
+Информация о пользователе только:
+username, email, phone и city

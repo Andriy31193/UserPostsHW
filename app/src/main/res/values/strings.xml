@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="post">POST #</string>
+    <string name="user_name">"User Name: "</string>
+    <string name="user_phone">"User Phone: "</string>
+    <string name="user_e_mail">"User E-MAIL: "</string>
+    <string name="user_city">"User City: "</string>
+    <string name="click_to_see_owner_s_details">Click to see owner\'s details</string>
+    <string name="user_id">"USER ID: "</string>
+</resources>
